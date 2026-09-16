@@ -1,0 +1,3 @@
+module package-example
+
+go 1.27.1
