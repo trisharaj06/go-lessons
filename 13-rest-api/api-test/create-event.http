@@ -1,0 +1,12 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+
+{
+    "name": "New Event",
+    "description": "Description",
+    "location": "Bangalore",
+    "userId": 2
+}
+
+# GET http://localhost:8080/ping
+# Content-Type: application/json
